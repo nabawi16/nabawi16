@@ -9,3 +9,7 @@
 <a href="https://t.me/Nabawi16"><img src="http://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white"></a>
 </div>
 <br />
+
+<h2 align="center">I am an Informatics Engineer passionate about creating and testing programs. I also already know about basic programming.
+I learned a lot about Quality Engineering, and am now proficient with full automation frameworks and tools using Selenium, Serenity BDD, Cucumber, Gherkin, Appium, Postman, Katalon, and JMeter.
+</h2>
