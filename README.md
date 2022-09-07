@@ -13,3 +13,6 @@
 <h4 align="center">I am an Informatics Engineer passionate about creating and testing programs. I also already know about basic programming.
 I learned a lot about Quality Engineering, and am now proficient with full automation frameworks and tools using Selenium, Serenity BDD, Cucumber, Gherkin, Appium, Postman, Katalon, and JMeter.
 </h4>
+<br/>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nabawi16&show_icons=true&theme=tokyonight&locale=en" alt="nabawi16" /></p>
