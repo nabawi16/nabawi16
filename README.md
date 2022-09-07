@@ -10,6 +10,6 @@
 </div>
 <br />
 
-<h2 align="center">I am an Informatics Engineer passionate about creating and testing programs. I also already know about basic programming.
+<h4 align="center">I am an Informatics Engineer passionate about creating and testing programs. I also already know about basic programming.
 I learned a lot about Quality Engineering, and am now proficient with full automation frameworks and tools using Selenium, Serenity BDD, Cucumber, Gherkin, Appium, Postman, Katalon, and JMeter.
-</h2>
+</h4>
