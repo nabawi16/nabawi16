@@ -16,5 +16,6 @@ I learned a lot about Quality Engineering, and am now proficient with full autom
 <br/>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabawi16&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="nabawi16" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabawi16&layout=compact" alt="nabawi16" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nabawi16&show_icons=true&theme=tokyonight&locale=en" alt="nabawi16" /></p>
