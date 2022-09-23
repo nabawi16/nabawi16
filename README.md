@@ -15,5 +15,5 @@ I learned a lot about Quality Engineering, and am now proficient with full autom
 </h4>
 <br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabawi16&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="nabawi16" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nabawi16&show_icons=true&theme=radical" alt="nabawi16" /></p>
+| <a href="https://github.com/nabawi16/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nabawi16&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Nabawi16 github stats" /></a> | <a href="https://github.com/nabawi16/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabawi16&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
