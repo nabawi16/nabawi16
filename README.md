@@ -4,11 +4,15 @@
 </h2>
 
 <p align="center">
- <img width="100px" src="https://res.cloudinary.com/nabawi16/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
- <h2 align="center">GitHub Readme Stats</h2>
- <p align="center">Get dynamically generated GitHub stats on your READMEs!</p>
+    <a href="#demo">View Demo</a>
+    ·
+    <a href="https://github.com/anuraghazra/github-readme-stats/issues/new/choose">Report Bug</a>
+    ·
+    <a href="https://github.com/anuraghazra/github-readme-stats/issues/new/choose">Request Feature</a>
+    ·
+    <a href="https://github.com/anuraghazra/github-readme-stats/discussions">Ask Question</a>
 </p>
-
+  
 <div align="center">
 <a href="mailto:a.nabawi16@gmail.com"> <img src="http://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/ahmad-nabawi-2448341b4/"><img src="http://img.shields.io/badge/-LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"></a>
