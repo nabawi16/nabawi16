@@ -22,5 +22,5 @@ I learned a lot about Quality Engineering, and am now proficient with full autom
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nabawi16&repo=github-readme-stats&theme=buefy" />
 </a>
 <a href="https://github.com/nabawi16/nabawi16.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nabawi16&repo=anuraghazra.github.io&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nabawi16&repo=nabawi16.github.io&theme=buefy" />
 </a>
