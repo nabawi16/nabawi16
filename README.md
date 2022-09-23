@@ -3,6 +3,12 @@
  I'm Ahmad Nabawi
 </h2>
 
+<p align="center">
+ <img width="100px" src="https://res.cloudinary.com/nabawi16/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
+ <h2 align="center">GitHub Readme Stats</h2>
+ <p align="center">Get dynamically generated GitHub stats on your READMEs!</p>
+</p>
+
 <div align="center">
 <a href="mailto:a.nabawi16@gmail.com"> <img src="http://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/ahmad-nabawi-2448341b4/"><img src="http://img.shields.io/badge/-LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"></a>
@@ -31,4 +37,3 @@ I learned a lot about Quality Engineering, and am now proficient with full autom
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabawi16&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="nabawi16" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nabawi16&show_icons=true&theme=radical" alt="nabawi16" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nabawi16&count_private=true" alt="nabawi16" /></p>
