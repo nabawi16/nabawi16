@@ -17,10 +17,3 @@ I learned a lot about Quality Engineering, and am now proficient with full autom
 
 | <a href="https://github.com/nabawi16/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nabawi16&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Nabawi16 github stats" /></a> | <a href="https://github.com/nabawi16/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabawi16&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
-
-<a href="https://github.com/nabawi16/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nabawi16&repo=github-readme-stats&theme=buefy" />
-</a>
-<a href="https://github.com/nabawi16/nabawi16.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nabawi16&repo=nabawi16.github.io&theme=buefy" />
-</a>
