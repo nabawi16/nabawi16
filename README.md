@@ -30,6 +30,18 @@
   <img src="https://img.shields.io/badge/-Trello-%23026AA7?style=flat&logo=trello&logoColor=white" alt="Trello">
   <img src="https://img.shields.io/badge/-Kanban_Tool-%231F4F94?style=flat&logo=kanbantool&logoColor=white" alt="Kanban Tool">
 </p>
+<!-- Bahasa Pemrograman -->
+<h3 align="center">Programming Languages</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/-Java-%23FF4500?style=flat&logo=java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/-Kotlin-%230095D5?style=flat&logo=kotlin&logoColor=white" alt="Kotlin">
+  <img src="https://img.shields.io/badge/-Gherkin-%23007A74?style=flat" alt="Gherkin">
+  <img src="https://img.shields.io/badge/-PHP-%23777BB4?style=flat&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/-HTML-%23E34F26?style=flat&logo=html5&logoColor=white" alt="HTML">
+  <img src="https://img.shields.io/badge/-CSS-%231572B6?style=flat&logo=css3&logoColor=white" alt="CSS">
+</p>
+
 
 <h4 align="center">I am an Informatics Engineer passionate about creating and testing programs. I also already know about basic programming. To improve my skills, I attended the Alterra Academy Bootcamp which focused on the Quality Engineer Program. I learned a lot about Quality Engineering and am now proficient with full automation frameworks and tools using Selenium, Serenity BDD, Katalon, JMeter, Postman, and Appium. I am experienced in conducting software testing, identifying and tracking bugs and compiling accurate test reports in working as a team on project work.
 </h4>
