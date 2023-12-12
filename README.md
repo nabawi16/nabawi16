@@ -4,11 +4,11 @@
 </h2>
   
 <div align="center">
-<a href="mailto:a.nabawi16@gmail.com"> <img src="http://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/ahmad-nabawi-2448341b4/"><img src="http://img.shields.io/badge/-LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"></a>
-<a href="https://t.me/Nabawi16"><img src="http://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white"></a>
+<a href="mailto:a.nabawi16@gmail.com"> <img src="http://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/ahmad-nabawi-2448341b4/"><img src="http://img.shields.io/badge/-LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://t.me/Nabawi16"><img src="http://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" target="_blank"></a>
 <a href="https://wa.me/6289661773995">
-    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp" previewlistener="true">
+    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp" target="_blank">
   </a>
 </div>
 <br />
@@ -68,7 +68,7 @@
 <!-- Contact and Follow -->
 <h3 align="center">Let's Connect!</h3>
 <p align="center">
-  <a href="https://nabawi-portfolio.infinityfreeapp.com/?i=1" previewlistener="true">Portfolio</a>
+  <a href="https://nabawi-portfolio.infinityfreeapp.com/?i=1" target="_blank">Portfolio</a>
 </p>
 
 <!-- Footer -->
