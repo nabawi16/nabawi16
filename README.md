@@ -30,6 +30,21 @@
   <img src="https://img.shields.io/badge/-Trello-%23026AA7?style=flat&logo=trello&logoColor=white" alt="Trello">
   <img src="https://img.shields.io/badge/-Kanban_Tool-%231F4F94?style=flat&logo=kanbantool&logoColor=white" alt="Kanban Tool">
 </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/-Manual_Testing-%230D47A1?style=flat" alt="Manual Testing">
+  <img src="https://img.shields.io/badge/-Automation_Testing-%234CAF50?style=flat" alt="Automation Testing">
+  <img src="https://img.shields.io/badge/-Regression_Testing-%23E91E63?style=flat" alt="Regression Testing">
+  <img src="https://img.shields.io/badge/-UAT_Testing-%23FFC107?style=flat" alt="UAT Testing">
+  <img src="https://img.shields.io/badge/-System_Integration_Testing-%23004D40?style=flat" alt="System Integration Testing (SIT)">
+  <img src="https://img.shields.io/badge/-End_to_End_Testing-%233E2723?style=flat" alt="End-to-End Testing">
+  <img src="https://img.shields.io/badge/-Load_Testing-%231A237E?style=flat" alt="Load Testing">
+  <img src="https://img.shields.io/badge/-Stress_Testing-%23D32F2F?style=flat" alt="Stress Testing">
+  <img src="https://img.shields.io/badge/-Penetration_Testing-%239C27B0?style=flat" alt="Penetration Testing">
+  <img src="https://img.shields.io/badge/-Vulnerability_Scanning-%23FF5722?style=flat" alt="Vulnerability Scanning">
+  <img src="https://img.shields.io/badge/-RestAPI_Testing-%23009688?style=flat" alt="RestAPI Testing">
+  <img src="https://img.shields.io/badge/-Agile_Project_Management-%232C3E50?style=flat" alt="Agile Project Management">
+  <img src="https://img.shields.io/badge/-Scrum-%23339933?style=flat" alt="Scrum">
+</p>
 <!-- Bahasa Pemrograman -->
 <h3 align="center">Programming Languages</h3>
 <p align="center">
