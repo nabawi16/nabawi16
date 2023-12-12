@@ -68,7 +68,7 @@
 <!-- Contact and Follow -->
 <h3 align="center">Let's Connect!</h3>
 <p align="center">
-  <a href="https://nabawi-portfolio.infinityfreeapp.com/?i=1" target="_blank">Portfolio</a>
+  <a href="https://nabawi-portfolio.infinityfreeapp.com/?i=1" alt="_blank">Portfolio</a>
 </p>
 
 <!-- Footer -->
