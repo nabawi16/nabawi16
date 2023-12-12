@@ -10,20 +10,17 @@
 </div>
 <br />
 
-<h4 align="center">I am an Informatics Engineer passionate about creating and testing programs. I also already know about basic programming.
-I learned a lot about Quality Engineering, and am now proficient with full automation frameworks and tools using Selenium, Serenity BDD, Cucumber, Gherkin, Appium, Postman, Katalon, and JMeter.
+<h4 align="center">I am an Informatics Engineer passionate about creating and testing programs. I also already know about basic programming. To improve my skills, I attended the Alterra Academy Bootcamp which focused on the Quality Engineer Program. I learned a lot about Quality Engineering and am now proficient with full automation frameworks and tools using Selenium, Serenity BDD, Katalon, JMeter, Postman, and Appium. I am experienced in conducting software testing, identifying and tracking bugs and compiling accurate test reports in working as a team on project work.
 </h4>
 <br/>
 
-| <a href="https://github.com/nabawi16/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=n&show_icons=true&theme=tokyonight&locale=en" alt="n github stats" /></a> | <a href="https://github.com/n/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nabawi16&show_icons=true&theme=tokyonight&locale=en&layout=compact" /></a> |
+| <a href="https://github.com/nabawi16/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nabawi16&show_icons=true&theme=tokyonight&locale=en" alt="nabawi16 github stats" /></a> | <a href="https://github.com/nabawi16/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nabawi16&show_icons=true&theme=tokyonight&locale=en&layout=compact" /></a> |
 | ------------- | ------------- |
 
 <!-- Contact and Follow -->
 <h3 align="center">Let's Connect!</h3>
 <p align="center">
-  <a href="[URL LinkedIn]">LinkedIn</a> •
-  <a href="[URL Twitter]">Twitter</a> •
-  <a href="[URL Portfolio]">Portfolio</a>
+  <a href="https://nabawi-portfolio.infinityfreeapp.com/?i=1">Portfolio</a>
 </p>
 
 <!-- Footer -->
