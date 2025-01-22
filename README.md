@@ -58,7 +58,8 @@
 </p>
 
 
-<h4 align="center">I am an Informatics Engineer passionate about creating and testing programs. I also already know about basic programming. To improve my skills, I attended the Alterra Academy Bootcamp which focused on the Quality Engineer Program. I learned a lot about Quality Engineering and am now proficient with full automation frameworks and tools using Selenium, Serenity BDD, Katalon, JMeter, Postman, and Appium. I am experienced in conducting software testing, identifying and tracking bugs and compiling accurate test reports in working as a team on project work.
+<h4 align="center">I am a passionate Software Quality Assurance professional experienced in API, web, and mobile testing for both Android and iOS. Proficient in using JIRA for task management, I thrive in dynamic environments and excel in implementing Scrum and Agile methodologies. After attending the Alterra Academy Bootcamp focused on Quality Engineering, I became skilled in automation tools such as Selenium, Serenity BDD, Katalon, JMeter, Postman, and Appium. I have a strong background in software testing, bug identification, and compiling test reports.
+Recently, I worked in a banking company, applying my quality engineering skills to ensure the security and reliability of financial software systems. My experience in the banking sector has refined my ability to identify critical issues and improve software performance.
 </h4>
 <br/>
 
