@@ -69,7 +69,7 @@ Recently, I worked in a banking company, applying my quality engineering skills 
 <!-- Contact and Follow -->
 <h3 align="center">Let's Connect!</h3>
 <p align="center">
-  <a href="https://nabawi-portfolio.infinityfreeapp.com/?i=1" target="_blank">My Portfolio</a>
+  <a href="https://nabawi-portfolio.com/" target="_blank">My Portfolio</a>
 </p>
 
 <!-- Footer -->
