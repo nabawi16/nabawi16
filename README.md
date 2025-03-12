@@ -67,6 +67,7 @@ Recently, I worked in a banking company, applying my quality engineering skills 
 | ------------- | ------------- |
 
 
+
 <!-- Contact and Follow -->
 <h3 align="center">Let's Connect!</h3>
 <p align="center">
