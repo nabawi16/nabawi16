@@ -66,6 +66,7 @@ Recently, I worked in a banking company, applying my quality engineering skills 
 | <a href="https://github.com/nabawi16/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nabawi16&show_icons=true&theme=tokyonight&locale=en" alt="nabawi16 github stats" /></a> | <a href="https://github.com/nabawi16/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nabawi16&show_icons=true&theme=tokyonight&locale=en&layout=compact" /></a> |
 | ------------- | ------------- |
 
+
 <!-- Contact and Follow -->
 <h3 align="center">Let's Connect!</h3>
 <p align="center">
