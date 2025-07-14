@@ -29,6 +29,8 @@
   <img src="https://img.shields.io/badge/-Microsoft_Teams-%236264A7?style=flat&logo=microsoftteams&logoColor=white" alt="Microsoft Teams">
   <img src="https://img.shields.io/badge/-Trello-%23026AA7?style=flat&logo=trello&logoColor=white" alt="Trello">
   <img src="https://img.shields.io/badge/-Kanban_Tool-%231F4F94?style=flat&logo=kanbantool&logoColor=white" alt="Kanban Tool">
+  <img src="https://img.shields.io/badge/-JIRA-%230A0FFF?style=flat&logo=jira&logoColor=white" alt="JIRA">
+  <img src="https://img.shields.io/badge/-Confluence-%23015BA6?style=flat&logo=confluence&logoColor=white" alt="Confluence">
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/-Manual_Testing-%230D47A1?style=flat" alt="Manual Testing">
@@ -63,9 +65,17 @@ Recently, I worked in a banking company, applying my quality engineering skills 
 </h4>
 <br/>
 
-| <a href="https://github.com/nabawi16/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nabawi16&show_icons=true&theme=tokyonight&locale=en&cache_seconds=1800" alt="nabawi16 github stats" /></a> | <a href="https://github.com/nabawi16/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nabawi16&show_icons=true&theme=tokyonight&locale=en&layout=compact&cache_seconds=1800" /></a> |
-| ------------- | ------------- |
-
+<h3 align="center">📊 My GitHub Stats</h3>
+<p align="center">
+  <a href="https://github.com/nabawi16/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=nabawi16&show_icons=true&theme=tokyonight&locale=en&cache_seconds=1800" alt="GitHub Stats" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/nabawi16/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nabawi16&show_icons=true&theme=tokyonight&locale=en&layout=compact&cache_seconds=1800" alt="Top Languages" />
+  </a>
+</p>
 
 
 
